@@ -2,7 +2,7 @@
     "name": "Simple Video Uploader",
     "description": "Simple Video Uploader",
     "repository": "https://github.com/Badsha010/prxvideoleecher001",
-    "success_url": "https://t.me/plusgeruolobot",
+    "success_url": "http://t.me/plusgerdombot",
     "stack": "heroku-20",
     "env": {
         "BOT_TOKEN": {
